@@ -1,6 +1,6 @@
 # 🛒 Ecommerce Sales Dashboard | Power BI
 
-![Ecommerce Sales Dashboard](ECommerce Sales Dashboard/Images/Project-2_Image-1.png)
+![Ecommerce Sales Dashboard](ECommerce%20Sales%20Dashboard/Images/Project-2_Image-1.png)
 
 ## 📌 Introduction
 
